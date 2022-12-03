@@ -20,7 +20,7 @@ Company as well.
 This project aims to solve that problem by building an efficient Data Base 
 Management System for Health Insurance Companies.
 
-I have built an application that takes in the policyholder’s info as input and 
+I have built an application using **Streamlit** that takes in the policyholder’s info as input and 
 automatically stores it in the main database at the same time ensuring that 
 no policyholder’s information is lost and no mixing of information with other 
 policyholders takes place.
